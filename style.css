@@ -300,10 +300,10 @@ background: rgb(0, 0,0);
     margin: auto 0;
 }
 
-.section_pic-container img{
+/* .section_pic-container img{
      transition: transform 0.3s ease;
      
-}
+} */
 
 .text-container p{
     padding: 20px;

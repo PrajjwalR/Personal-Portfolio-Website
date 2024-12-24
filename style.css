@@ -25,6 +25,7 @@ a, .btn{
     transition: all 300ms ease;
 }
 
+
 /* Desktop nav */
 
 nav, .nav-links{
@@ -183,8 +184,16 @@ margin: auto 0;
 text-align: center;
 }
 .section_text_p2{
-font-size: 1.75rem ;
+font-size: 3rem ;
 margin-bottom: 1rem;
+}
+
+.company-link {
+   font-size: 25px;
+  margin-bottom: 20px;
+}
+.company-link a{
+    text-decoration: dashed;
 }
 
 .title{
